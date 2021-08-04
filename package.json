@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "expo": "^42.0.3",
+    "expo-barcode-scanner": "^10.2.2",
+    "permission": "^1.1.0",
+    "react-native": "^0.64.2",
+    "react-navigation": "^4.4.4"
+  }
+}
